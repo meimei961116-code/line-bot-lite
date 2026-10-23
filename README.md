@@ -1,4 +1,4 @@
-# LINE bot 輕量版
+# LINE bot 
 
 本專案提供兩種版本：本機 Ollama，以及 Google Apps Script + Gemini 雲端版。
 
